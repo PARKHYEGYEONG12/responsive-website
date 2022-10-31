@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "imgs",
+			"path": "..\\..\\..\\Downloads\\site\\imgs"
+		},
+		{
+			"name": "responsive-website",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "responsive-website"
+	}
+}
